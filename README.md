@@ -4,18 +4,29 @@ Complete statistical analysis of all Premier League goalkeepers with **900+ minu
 
 ## Charts
 
-| File | Description |
-|------|-------------|
-| `01_save_percentage` | Overall save % ranked, with league average line |
-| `02_goals_prevented` | Goals saved above/below xG expectation (diverging bar) |
-| `03_inside_outside_save_pct` | Save % split by shot location — inside vs outside box |
-| `04_clean_sheet_pct` | Clean sheet rate per GK |
-| `05_error_rate_per90` | Errors leading to goal or shot per 90 minutes |
-| `06_high_claims_per90` | Aerial dominance — high claims per 90 |
-| `07_composite_ranking` | Weighted composite score (see Methodology) |
-| `08_scatter_save_vs_prevented` | Save % vs goals prevented scatter, coloured by rating |
+### 1. Save Percentage
+![Save Percentage](charts/01_save_percentage.png)
 
-All charts are saved to the `charts/` folder.
+### 2. Goals Prevented (xG-based)
+![Goals Prevented](charts/02_goals_prevented.png)
+
+### 3. Save % — Inside vs Outside Box
+![Inside vs Outside Box](charts/03_inside_outside_save_pct.png)
+
+### 4. Clean Sheet Percentage
+![Clean Sheet Percentage](charts/04_clean_sheet_pct.png)
+
+### 5. Error Rate per 90 Minutes
+![Error Rate](charts/05_error_rate_per90.png)
+
+### 6. Aerial Dominance — High Claims per 90
+![Aerial Dominance](charts/06_high_claims_per90.png)
+
+### 7. Composite Ranking
+![Composite Ranking](charts/07_composite_ranking.png)
+
+### 8. Save % vs Goals Prevented (Scatter)
+![Scatter](charts/08_scatter_save_vs_prevented.png)
 
 ## Top 5 — Composite Ranking (GW31)
 
